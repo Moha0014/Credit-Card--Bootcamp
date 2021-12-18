@@ -43,7 +43,7 @@ There are tools that will be used to achieve the goal of this study, such as: pa
 
 - What is the most Income Category based on Attrition Flag?
 - Is the Education Level affect on the Income Category?
-- Does `Customer_Age` influnce the `Marital_Statu?
+- Does `Customer_Age` influnce the `Marital_Status?
 - Which card category has been used the most?
 
 
